@@ -1,6 +1,10 @@
 # YooAndroid
 android wallet,goods explorer,account home page explorer,etc.
 
+# Plan & Guide
+
+https://github.com/yooba-team/plans/blob/master/android-guide.md
+
 # build
 
 1. git clone https://github.com/yooba-team/YooAndroid --recursive
